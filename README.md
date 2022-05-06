@@ -1,9 +1,3 @@
-# tailwind-playground
-
-Empty project.
-
-## Building and running on localhost
-
 First install dependencies:
 
 ```sh
@@ -24,9 +18,9 @@ npm run build-dev
 
 ## Running
 
-```sh
-node dist/bundle.js
-```
+npm run start
+
+Have fun!
 
 ## Credits
 
